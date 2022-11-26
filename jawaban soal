@@ -1,0 +1,20 @@
+1a. Pada Program di Atas terdapat beberapa Class yakni :
+1. Class Outer
+Class yang didalamnya mempunyai inner class, Class ini mempunyai methode void
+“displayFromMethod” yang berfungsi membuat object dari inner class dan
+memanggil method print dari object kelas pada program di atas\.
+
+2. Class Main
+Dalam Class ini dibuat object class Outer dengan diberi nama “out” dan
+displayFromMethod dari object “out” tersebut, fungsi Class Main sendiri sebagai
+Hasil (OUTPUT) dari Program di atas.
+
+1b. Dalam Program di atas menghasilkan 2 file dengan ekstensi class yakni : 
+“Outer Class dan Main Class”.
+
+2. Jika kode ++number diubah dengan number++ maka yang terjadi hasil dari
+Output tersebuta 0,1,2 beda halnya jika tidak diganti maka outputnya 1,2,3\
+
+b. Dalam Program di atas menghasilkan 3 file dengan ekstensi class yakni : 
+“ Outer1.Class , outerMethod.Class dan OutherAccess.Class”.
+
